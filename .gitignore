@@ -211,3 +211,6 @@ __marimo__/
 
 # Ignore models/
 models/
+
+# Ignore data/
+data/
